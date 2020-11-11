@@ -1,0 +1,11 @@
+name: Roboot
+main: com.jaoafa.Roboot.Main
+version: 0.0.1
+description: Roboot
+author: mine_book000
+database: true
+commands:
+  g:
+    description: GameMode
+    usage: GameMode
+    permission: roboot.g
